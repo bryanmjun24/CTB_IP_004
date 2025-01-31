@@ -1,7 +1,7 @@
 <html>
     <body>
 
-        <form action="result.php" method="post">
+        <form action="process.php" method="post">
             <label>Input for a:</label>
             <input type="number" name="a" required>
             <br>
